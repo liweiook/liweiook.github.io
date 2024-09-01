@@ -1,2 +1,7 @@
-# liweiook.github.io
-个人文档
+# liweiook 的个人网站
+
+<https://liweiook.github.io>
+
+- 生成 [MkDocs](https://www.mkdocs.org)
+- 主题 [Material](https://github.com/squidfunk/mkdocs-material)
+- 发布 [GitHub Pages](https://pages.github.com)
